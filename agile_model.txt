@@ -1,0 +1,22 @@
+The Agile model refers to a set of principles and practices for software development that prioritize flexibility, collaboration, and customer satisfaction. The Agile approach is in contrast to traditional, plan-driven methodologies, such as the Waterfall model, which follow a linear and sequential path.
+
+Key principles of Agile development include:
+
+1. **Individuals and Interactions over Processes and Tools:** Emphasizes the importance of communication and collaboration among team members.
+
+2. **Working Software over Comprehensive Documentation:** Prioritizes functional software as the primary measure of progress, while still recognizing the importance of necessary documentation.
+
+3. **Customer Collaboration over Contract Negotiation:** Encourages regular and close collaboration with customers or stakeholders throughout the development process to ensure their needs are met.
+
+4. **Responding to Change over Following a Plan:** Acknowledges that requirements and priorities can change, and the development process should be flexible enough to accommodate these changes.
+
+The Agile model is often implemented through specific frameworks or methodologies, such as Scrum, Kanban, Extreme Programming (XP), and others. Here are a few common Agile methodologies:
+
+1. **Scrum:** A popular Agile framework that divides the development process into fixed-length iterations called "sprints," typically lasting two to four weeks. It includes roles such as Product Owner, Scrum Master, and Development Team.
+
+2. **Kanban:** Focuses on visualizing the workflow and optimizing the flow of work through the system. Work items are represented on a Kanban board, and teams pull work as capacity allows.
+
+3. **Extreme Programming (XP):** Emphasizes close collaboration between developers and customers, frequent releases, and practices such as pair programming, continuous integration, and test-driven development.
+
+Agile methodologies are widely used in the software industry and have also been adapted for various other industries beyond software development. The iterative and incremental nature of Agile development helps teams respond to changing requirements and deliver value to customers more frequently.
+
