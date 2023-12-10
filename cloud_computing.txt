@@ -1,0 +1,36 @@
+Cloud computing is a technology model that allows users to access and use computing resources (such as servers, storage, databases, networking, software, analytics, and more) over the internet, often referred to as "the cloud." Instead of owning and maintaining physical hardware or servers, users can leverage resources provided by cloud service providers on a pay-as-you-go or subscription basis.
+
+Key characteristics of cloud computing include:
+
+1. **On-Demand Self-Service:** Users can provision and manage computing resources as needed, without requiring human intervention from the service provider.
+
+2. **Broad Network Access:** Cloud services are accessible over the internet from a variety of devices, such as laptops, smartphones, and tablets.
+
+3. **Resource Pooling:** Cloud providers pool computing resources to serve multiple customers. Resources are dynamically assigned and reassigned based on demand.
+
+4. **Rapid Elasticity:** Cloud resources can be quickly scaled up or down to accommodate changes in demand. Users only pay for the resources they consume.
+
+5. **Measured Service:** Cloud computing resources are metered, and users are billed based on their usage. This pay-as-you-go model allows for cost efficiency and optimization.
+
+Cloud computing is typically categorized into three service models and four deployment models:
+
+**Service Models:**
+
+1. **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networking.
+
+2. **Platform as a Service (PaaS):** Offers a platform that includes not only infrastructure but also tools and services to help develop, deploy, and manage applications.
+
+3. **Software as a Service (SaaS):** Delivers software applications over the internet. Users can access and use software without worrying about the underlying infrastructure.
+
+**Deployment Models:**
+
+1. **Public Cloud:** Cloud resources are owned and operated by a third-party cloud service provider. They are made available to the general public or a large industry group.
+
+2. **Private Cloud:** Cloud resources are used exclusively by a single organization. They can be hosted on-premises or by a third-party provider.
+
+3. **Hybrid Cloud:** Combines elements of both public and private clouds. Data and applications can move between private and public environments as needed.
+
+4. **Multi-Cloud:** Involves the use of services from multiple cloud providers. Organizations may use different cloud providers for different purposes, such as leveraging the strengths of each provider or avoiding vendor lock-in.
+
+Cloud computing has become a fundamental technology for businesses, providing flexibility, scalability, cost-effectiveness, and the ability to focus on core business activities without the need to manage complex IT infrastructure.
+
