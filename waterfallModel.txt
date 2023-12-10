@@ -1,0 +1,13 @@
+The waterfall model follows sequential application design process for software development. It comes with good control but lacks revisions. It is a goal based development but without any scope of revision. The waterfall model has long been used for software development:
+
+
+It has its advantages, as follows:
+Easy to understand
+Easy to manage—the input and output of each phase is defined Sequential process—order is maintained
+Better control
+
+However, it is only useful in scenarios where requirements are predefined and fixed. As it is a rigid model with a sequential process, we can't go back to any phase and change things. It has its share of disadvantages, as follows:
+No revision
+No outcome or application package until all phases are completed Not possible to integrate feedback until all phases are completed Not suitable for changing requirements
+Not suitable for long-term and complex projects
+

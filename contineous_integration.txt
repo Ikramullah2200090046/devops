@@ -15,4 +15,3 @@ Quick feedback: build status notification to stakeholders via e-mail Teams focus
 
 Jenkins, Apache Continuum, Buildbot, GitLabCI, and so on are some examples of open source CI tools. AnthillPro, Atlassian Bamboo, TeamCity, Team Foundation Server, and so on are some examples of commercial CI tools.
 
-

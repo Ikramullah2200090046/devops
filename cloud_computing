@@ -1,0 +1,42 @@
+Cloud computing refers to the delivery of computing services, including computing power, storage, databases, networking, analytics, software, and intelligence, over the internet (the cloud) to offer faster innovation, flexible resources, and economies of scale. In essence, cloud computing allows users to access and use computing resources without the need to own or manage the underlying physical infrastructure.
+
+Key characteristics of cloud computing include:
+
+On-Demand Self-Service:
+
+Users can provision and manage computing resources as needed, without requiring human intervention from service providers.
+Broad Network Access:
+
+Cloud services are accessible over the internet from a variety of devices, such as laptops, smartphones, and tablets.
+Resource Pooling:
+
+Cloud providers pool computing resources to serve multiple customers. Resources are dynamically assigned and reassigned based on demand.
+Rapid Elasticity:
+
+Cloud resources can be rapidly and elastically provisioned and scaled out, allowing users to quickly scale up or down based on workload changes.
+Measured Service:
+
+Cloud computing resources are metered, and users pay for only the resources they consume. This pay-as-you-go model allows for cost optimization and efficient resource allocation.
+Cloud computing services are typically categorized into three main service models:
+
+Infrastructure as a Service (IaaS):
+
+Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networking components.
+Platform as a Service (PaaS):
+
+Offers a platform allowing customers to develop, run, and manage applications without dealing with the complexity of underlying infrastructure. PaaS typically includes development tools, databases, and other middleware.
+Software as a Service (SaaS):
+
+Delivers software applications over the internet on a subscription basis. Users can access the software through a web browser without needing to install or maintain it locally.
+Cloud deployment models define how cloud services are made available to users:
+
+Public Cloud:
+
+Services are offered over the public internet and are available to anyone who wants to purchase them. Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+Private Cloud:
+
+Cloud resources are used exclusively by a single organization. They can be hosted on-premises or by a third-party provider. Private clouds offer greater control over resources and security.
+Hybrid Cloud:
+
+Combines public and private clouds, allowing data and applications to be shared between them. This provides greater flexibility and more deployment options.
+Cloud computing has become a fundamental technology for businesses, enabling them to scale operations, increase agility, and reduce costs by leveraging shared computing resources and services over the internet.

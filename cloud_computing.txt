@@ -34,3 +34,4 @@ Cloud computing is typically categorized into three service models and four depl
 
 Cloud computing has become a fundamental technology for businesses, providing flexibility, scalability, cost-effectiveness, and the ability to focus on core business activities without the need to manage complex IT infrastructure.
 
+
